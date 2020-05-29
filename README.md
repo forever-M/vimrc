@@ -1,2 +1,3 @@
 # vimrc
- vim config file
+- vim config file
+Install `Vundle` firstly to manage plug-in.
