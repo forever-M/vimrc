@@ -16,6 +16,7 @@ Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
 Plugin 'OmniCppComplete'
 Plugin 'junegunn/fzf'
+Plugin 'junegunn/fzf.vim'
 Plugin 'tpope/vim-fugitive'
 Plugin 'fatih/vim-go'
 Plugin 'Align'
@@ -56,6 +57,7 @@ set smartindent
 set statusline=[%F]%y%r%m%*%=[Line:%l/%L,Column:%c][%p%%]
 set tabstop=8
 set shiftwidth=8
+set cc=80
 set noexpandtab
 set vb
 set nowrap
